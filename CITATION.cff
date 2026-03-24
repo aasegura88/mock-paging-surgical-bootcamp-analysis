@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the software record and the associated manuscript."
+title: "Mock Paging in a Surgical Boot Camp: Reproducible Analysis Code"
+version: 0.1.0
+date-released: 2026-03-23
+authors:
+  - family-names: "Segura"
+    given-names: "Aaron"
+repository-code: "https://github.com/YOUR-USERNAME/mock-paging-surgical-bootcamp-analysis"
+abstract: "Reproducible Python pipeline for the mock paging surgical boot camp manuscript. The repository generates the main tables, supplementary table, main figure, supplementary figure, and manuscript-ready summary text from a de-identified input CSV."
