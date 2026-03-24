@@ -4,6 +4,10 @@ This repository contains the reproducible Python analysis pipeline for the manus
 
 **Mock Paging in a Surgical Boot Camp: A Pre/Post Evaluation of Self-Reported Confidence, Anxiety, and Communication With Nurses Among Senior Medical Students**
 
+<p align="center">
+  <img src="mock_page_figure1.png" alt="Figure 1. Pre- and post-intervention changes in confidence, anxiety, and communication after the mock paging exercise." width="950">
+</p>
+
 ## What this repository does
 
 The pipeline:
